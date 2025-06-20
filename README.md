@@ -60,7 +60,7 @@ You can also run the environment from the command line using the provided shell 
 cd grid_world
 bash run_grid.sh [RECURSIVE_TYPE]
 ```
-Replace `[RECURSIVE_TYPE]` with your desired aggregation method, such as: `dsum` (default), `max`, `mean`, `dmax`.
+Replace `[RECURSIVE_TYPE]` with your desired aggregation method. Default: `dsum`. Available options: `dsum`, `dmax`, `min`, `mean`.
 
 ### 2. Wind environment
 The `wind` environment can be executed directly using the Jupyter Notebook **`wind.ipynb`**.
