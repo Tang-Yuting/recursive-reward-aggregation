@@ -65,7 +65,21 @@ bash run_grid.sh [aggregation]
 Replace `[aggregation]` with your desired aggregation method, such as: `dsum` (default), `max`, `mean`, `dmax`.
 
 ### 2. Wind environment
+The `wind` environment can be executed directly using the Jupyter Notebook **`wind.ipynb`**.
+```sh
+cd wind
+jupyter notebook wind.ipynb
+```
 
 ### 3. Continuous control experiment
+```sh
+cd continuous_control
+./run_td3.sh
+```
 
 ### 4. Portfolio experiment
+```sh
+cd portfolio
+./run_portfolio.sh
+```
+
