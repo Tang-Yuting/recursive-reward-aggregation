@@ -28,7 +28,7 @@ docker exec -it rra_container bash
 ### Additional Setup for Experiments
 To run Continuous Control and Portfolio experiments inside the Docker container, you will also need to manually install:
 ```sh
-pip install torch stable-baselines3
+pip install torch stable-baselines3 empyrical tensorboard
 ```
 Make sure to run this inside the container after building it.
 
@@ -82,6 +82,7 @@ bash run_td3.sh [SEED] [ENV] [RECURSIVE_TYPE]
 If no arguments are provided, the script will use the default values.
 
 ### 4. Portfolio experiment
+This script runs the portfolio experiment using pre-defined market environments and settings.
 ```sh
 cd portfolio
 ./run_portfolio.sh
