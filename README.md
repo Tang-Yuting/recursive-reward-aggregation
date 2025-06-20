@@ -99,3 +99,52 @@ cd portfolio
 ./run_portfolio.sh
 ```
 
+## Videos for continuous control experiments
+
+<div align="center">
+  <img src="video/Hopper_dsum.gif" width="190">
+  <img src="video/Hopper_dmax.gif" width="190">
+  <img src="video/Hopper_min.gif" width="190">
+  <img src="video/Hopper_dsum_dmax.gif" width="190">
+  <img src="video/Hopper_dsum_var.gif" width="190">
+  <br>
+  &nbsp;&nbsp
+  Hopper dsum &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+  Hopper dmax &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+  Hopper min &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+  Hopper dsum + dmax &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+  Hopper dsum - var
+</div>
+
+
+<div align="center">
+  <img src="video/Ant_dsum.gif" width="190">
+  <img src="video/Ant_dmax.gif" width="190">
+  <img src="video/Ant_min.gif" width="190">
+  <img src="video/Ant_dsum_dmax.gif" width="190">
+  <img src="video/Ant_dsum_var.gif" width="190">
+  <br>
+  &nbsp;&nbsp
+  Ant dsum &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+  Ant dmax &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+  Ant min &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+  Ant dsum + dmax &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+  Ant dsum - var
+</div>
+
+
+<div align="center">
+  <img src="video/Lunar_dsum.gif" width="190">
+  <img src="video/Lunar_dmax.gif" width="190">
+  <img src="video/Lunar_min.gif" width="190">
+  <img src="video/Lunar_dsum_dmax.gif" width="190">
+  <img src="video/Lunar_dsum_var.gif" width="190">
+  <br>
+  &nbsp;&nbsp
+  Lunar dsum &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+  Lunar dmax &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+  Lunar min &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+  Lunar dsum + dmax &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+  Lunar dsum - var
+</div>
+
