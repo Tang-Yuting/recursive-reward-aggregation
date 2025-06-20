@@ -1,5 +1,5 @@
 # recursive-reward-aggregation
-Code of Recursive Reward Aggregate.
+Code of Recursive Reward Aggregation.
 Built upon Stable-Baselines3.
 
 
