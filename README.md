@@ -56,13 +56,11 @@ jupyter notebook grid.ipynb
 
 #### Using Shell Script
 You can also run the environment from the command line using the provided shell script.
-
 ```sh
 cd grid_world
-bash run_grid.sh [aggregation]
+bash run_grid.sh [RECURSIVE_TYPE]
 ```
-
-Replace `[aggregation]` with your desired aggregation method, such as: `dsum` (default), `max`, `mean`, `dmax`.
+Replace `[RECURSIVE_TYPE]` with your desired aggregation method, such as: `dsum` (default), `max`, `mean`, `dmax`.
 
 ### 2. Wind environment
 The `wind` environment can be executed directly using the Jupyter Notebook **`wind.ipynb`**.
@@ -72,10 +70,16 @@ jupyter notebook wind.ipynb
 ```
 
 ### 3. Continuous control experiment
+You can run the continuous control experiments using the provided shell script.
 ```sh
 cd continuous_control
-./run_td3.sh
+bash run_td3.sh [SEED] [ENV] [RECURSIVE_TYPE]
 ```
+- `SEED` (optional): Random seed for training. Default: `42`.
+- `ENV` (optional): OpenAI Gym environment name. Default: `Ant-v3`. Available options: `Ant-v3`, `Walker2d-v3`, `Hopper-v3`.
+- `RECURSIVE_TYPE` (optional): Type of recursive aggregation to use in training. Default: `dsum`. Available options: `dsum`, `dmax`, `min`, `dsum_dmax`, `dsum_variance`.
+
+If no arguments are provided, the script will use the default values.
 
 ### 4. Portfolio experiment
 ```sh
