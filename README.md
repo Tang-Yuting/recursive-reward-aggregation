@@ -102,6 +102,22 @@ cd portfolio
 ## Videos for continuous control experiments
 
 <div align="center">
+  <img src="video/Lunar_dsum.gif" width="190">
+  <img src="video/Lunar_dmax.gif" width="190">
+  <img src="video/Lunar_min.gif" width="190">
+  <img src="video/Lunar_dsum_dmax.gif" width="190">
+  <img src="video/Lunar_dsum_var.gif" width="190">
+  <br>
+  &nbsp;&nbsp
+  Lunar dsum &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+  Lunar dmax &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+  Lunar min &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+  Lunar dsum + dmax &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+  Lunar dsum - var
+</div>
+
+
+<div align="center">
   <img src="video/Hopper_dsum.gif" width="190">
   <img src="video/Hopper_dmax.gif" width="190">
   <img src="video/Hopper_min.gif" width="190">
@@ -132,19 +148,4 @@ cd portfolio
   Ant dsum - var
 </div>
 
-
-<div align="center">
-  <img src="video/Lunar_dsum.gif" width="190">
-  <img src="video/Lunar_dmax.gif" width="190">
-  <img src="video/Lunar_min.gif" width="190">
-  <img src="video/Lunar_dsum_dmax.gif" width="190">
-  <img src="video/Lunar_dsum_var.gif" width="190">
-  <br>
-  &nbsp;&nbsp
-  Lunar dsum &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
-  Lunar dmax &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
-  Lunar min &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
-  Lunar dsum + dmax &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
-  Lunar dsum - var
-</div>
 
