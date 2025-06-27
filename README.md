@@ -113,28 +113,28 @@ cd portfolio
 ### Lunar Lander Continuous
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 2px; flex-wrap: wrap;">
-  <figure style="text-align: center; flex: 1; min-width: 150px;">
-    <img src="video/Lunar_dsum.gif" style="width: 100%; max-width: 190px; max-height: 150px; height: auto;">
+  <figure style="text-align: center; flex: 1;">
+    <img src="video/Lunar_dsum.gif" style="max-height: 150px;">
     <figcaption style="font-size: 0.9em; color: gray; margin-top: 5px;">Lunar dsum</figcaption>
   </figure>
   
-  <figure style="text-align: center; flex: 1; min-width: 150px;">
-    <img src="video/Lunar_dmax.gif" style="width: 100%; max-width: 190px; max-height: 150px; height: auto;">
+  <figure style="text-align: center; flex: 1;">
+    <img src="video/Lunar_dmax.gif" style="max-height: 150px;">
     <figcaption style="font-size: 0.9em; color: gray; margin-top: 5px;">Lunar dmax</figcaption>
   </figure>
   
-  <figure style="text-align: center; flex: 1; min-width: 150px;">
-    <img src="video/Lunar_min.gif" style="width: 100%; max-width: 190px; max-height: 150px; height: auto;">
+  <figure style="text-align: center; flex: 1;">
+    <img src="video/Lunar_min.gif" style="max-height: 150px;">
     <figcaption style="font-size: 0.9em; color: gray; margin-top: 5px;">Lunar min</figcaption>
   </figure>
   
-  <figure style="text-align: center; flex: 1; min-width: 150px;">
-    <img src="video/Lunar_dsum_dmax.gif" style="width: 100%; max-width: 190px; max-height: 150px; height: auto;">
+  <figure style="text-align: center; flex: 1;">
+    <img src="video/Lunar_dsum_dmax.gif" style="max-height: 150px;">
     <figcaption style="font-size: 0.9em; color: gray; margin-top: 5px;">Lunar dsum + dmax</figcaption>
   </figure>
   
-  <figure style="text-align: center; flex: 1; min-width: 150px;">
-    <img src="video/Lunar_dsum_var.gif" style="width: 100%; max-width: 190px; max-height: 150px; height: auto;">
+  <figure style="text-align: center; flex: 1;">
+    <img src="video/Lunar_dsum_var.gif" style="max-height: 150px;">
     <figcaption style="font-size: 0.9em; color: gray; margin-top: 5px;">Lunar dsum - var</figcaption>
   </figure>
 </div>
@@ -142,28 +142,28 @@ cd portfolio
 ### Hopper
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 2px; flex-wrap: wrap;">
-  <figure style="text-align: center; flex: 1; min-width: 150px;">
-    <img src="video/Hopper_dsum.gif" style="width: 100%; max-width: 190px; max-height: 150px; height: auto;">
+  <figure style="text-align: center; flex: 1;">
+    <img src="video/Hopper_dsum.gif" style="max-height: 150px;">
     <figcaption style="font-size: 0.9em; color: gray; margin-top: 5px;">Hopper dsum</figcaption>
   </figure>
   
-  <figure style="text-align: center; flex: 1; min-width: 150px;">
-    <img src="video/Hopper_dmax.gif" style="width: 100%; max-width: 190px; max-height: 150px; height: auto;">
+  <figure style="text-align: center; flex: 1;">
+    <img src="video/Hopper_dmax.gif" style="max-height: 150px;">
     <figcaption style="font-size: 0.9em; color: gray; margin-top: 5px;">Hopper dmax</figcaption>
   </figure>
   
-  <figure style="text-align: center; flex: 1; min-width: 150px;">
-    <img src="video/Hopper_min.gif" style="width: 100%; max-width: 190px; max-height: 150px; height: auto;">
+  <figure style="text-align: center; flex: 1;">
+    <img src="video/Hopper_min.gif" style="max-height: 150px;">
     <figcaption style="font-size: 0.9em; color: gray; margin-top: 5px;">Hopper min</figcaption>
   </figure>
   
-  <figure style="text-align: center; flex: 1; min-width: 150px;">
-    <img src="video/Hopper_dsum_dmax.gif" style="width: 100%; max-width: 190px; max-height: 150px; height: auto;">
+  <figure style="text-align: center; flex: 1;">
+    <img src="video/Hopper_dsum_dmax.gif" style="max-height: 150px;">
     <figcaption style="font-size: 0.9em; color: gray; margin-top: 5px;">Hopper dsum + dmax</figcaption>
   </figure>
   
-  <figure style="text-align: center; flex: 1; min-width: 150px;">
-    <img src="video/Hopper_dsum_var.gif" style="width: 100%; max-width: 190px; max-height: 150px; height: auto;">
+  <figure style="text-align: center; flex: 1;">
+    <img src="video/Hopper_dsum_var.gif" style="max-height: 150px;">
     <figcaption style="font-size: 0.9em; color: gray; margin-top: 5px;">Hopper dsum - var</figcaption>
   </figure>
 </div>
@@ -171,28 +171,28 @@ cd portfolio
 ### Ant
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 2px; flex-wrap: wrap;">
-  <figure style="text-align: center; flex: 1; min-width: 150px;">
-    <img src="video/Ant_dsum.gif" style="width: 100%; max-width: 190px; max-height: 150px; height: auto;">
+  <figure style="text-align: center; flex: 1;">
+    <img src="video/Ant_dsum.gif" style="max-height: 150px;">
     <figcaption style="font-size: 0.9em; color: gray; margin-top: 5px;">Ant dsum</figcaption>
   </figure>
   
-  <figure style="text-align: center; flex: 1; min-width: 150px;">
-    <img src="video/Ant_dmax.gif" style="width: 100%; max-width: 190px; max-height: 150px; height: auto;">
+  <figure style="text-align: center; flex: 1;">
+    <img src="video/Ant_dmax.gif" style="max-height: 150px;">
     <figcaption style="font-size: 0.9em; color: gray; margin-top: 5px;">Ant dmax</figcaption>
   </figure>
   
-  <figure style="text-align: center; flex: 1; min-width: 150px;">
-    <img src="video/Ant_min.gif" style="width: 100%; max-width: 190px; max-height: 150px; height: auto;">
+  <figure style="text-align: center; flex: 1;">
+    <img src="video/Ant_min.gif" style="max-height: 150px;">
     <figcaption style="font-size: 0.9em; color: gray; margin-top: 5px;">Ant min</figcaption>
   </figure>
   
-  <figure style="text-align: center; flex: 1; min-width: 150px;">
-    <img src="video/Ant_dsum_dmax.gif" style="width: 100%; max-width: 190px; max-height: 150px; height: auto;">
+  <figure style="text-align: center; flex: 1;">
+    <img src="video/Ant_dsum_dmax.gif" style="max-height: 150px;">
     <figcaption style="font-size: 0.9em; color: gray; margin-top: 5px;">Ant dsum + dmax</figcaption>
   </figure>
   
-  <figure style="text-align: center; flex: 1; min-width: 150px;">
-    <img src="video/Ant_dsum_var.gif" style="width: 100%; max-width: 190px; max-height: 150px; height: auto;">
+  <figure style="text-align: center; flex: 1;">
+    <img src="video/Ant_dsum_var.gif" style="max-height: 150px;">
     <figcaption style="font-size: 0.9em; color: gray; margin-top: 5px;">Ant dsum - var</figcaption>
   </figure>
 </div>
