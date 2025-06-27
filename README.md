@@ -112,87 +112,18 @@ cd portfolio
 
 ### Lunar Lander Continuous
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 2px; flex-wrap: wrap;">
-  <figure style="text-align: center; flex: 1;">
-    <img src="video/Lunar_dsum.gif" height="150px">
-    <figcaption style="font-size: 0.9em; color: gray; margin-top: 5px;">Lunar dsum</figcaption>
-  </figure>
-  
-  <figure style="text-align: center; flex: 1;">
-    <img src="video/Lunar_dmax.gif" height="150px">
-    <figcaption style="font-size: 0.9em; color: gray; margin-top: 5px;">Lunar dmax</figcaption>
-  </figure>
-  
-  <figure style="text-align: center; flex: 1;">
-    <img src="video/Lunar_min.gif" height="150px">
-    <figcaption style="font-size: 0.9em; color: gray; margin-top: 5px;">Lunar min</figcaption>
-  </figure>
-  
-  <figure style="text-align: center; flex: 1;">
-    <img src="video/Lunar_dsum_dmax.gif" height="150px">
-    <figcaption style="font-size: 0.9em; color: gray; margin-top: 5px;">Lunar dsum + dmax</figcaption>
-  </figure>
-  
-  <figure style="text-align: center; flex: 1;">
-    <img src="video/Lunar_dsum_var.gif" height="150px">
-    <figcaption style="font-size: 0.9em; color: gray; margin-top: 5px;">Lunar dsum - var</figcaption>
-  </figure>
-</div>
+| dsum | dmax | min | dsum + dmax | dsum - var |
+|------------|------------|-----------|-------------------|------------------|
+| <img src="video/Lunar_dsum.gif" height="150"> | <img src="video/Lunar_dmax.gif" height="150"> | <img src="video/Lunar_min.gif" height="150"> | <img src="video/Lunar_dsum_dmax.gif" height="150"> | <img src="video/Lunar_dsum_var.gif" height="150"> |
 
 ### Hopper
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 2px; flex-wrap: wrap;">
-  <figure style="text-align: center; flex: 1;">
-    <img src="video/Hopper_dsum.gif" height="150px">
-    <figcaption style="font-size: 0.9em; color: gray; margin-top: 5px;">Hopper dsum</figcaption>
-  </figure>
-  
-  <figure style="text-align: center; flex: 1;">
-    <img src="video/Hopper_dmax.gif" height="150px">
-    <figcaption style="font-size: 0.9em; color: gray; margin-top: 5px;">Hopper dmax</figcaption>
-  </figure>
-  
-  <figure style="text-align: center; flex: 1;">
-    <img src="video/Hopper_min.gif" height="150px">
-    <figcaption style="font-size: 0.9em; color: gray; margin-top: 5px;">Hopper min</figcaption>
-  </figure>
-  
-  <figure style="text-align: center; flex: 1;">
-    <img src="video/Hopper_dsum_dmax.gif" height="150px">
-    <figcaption style="font-size: 0.9em; color: gray; margin-top: 5px;">Hopper dsum + dmax</figcaption>
-  </figure>
-  
-  <figure style="text-align: center; flex: 1;">
-    <img src="video/Hopper_dsum_var.gif" height="150px">
-    <figcaption style="font-size: 0.9em; color: gray; margin-top: 5px;">Hopper dsum - var</figcaption>
-  </figure>
-</div>
+| dsum | dmax | min | dsum + dmax | dsum - var |
+|-------------|-------------|------------|-------------------|------------------|
+| <img src="video/Hopper_dsum.gif" height="150"> | <img src="video/Hopper_dmax.gif" height="150"> | <img src="video/Hopper_min.gif" height="150"> | <img src="video/Hopper_dsum_dmax.gif" height="150"> | <img src="video/Hopper_dsum_var.gif" height="150"> |
 
 ### Ant
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 2px; flex-wrap: wrap;">
-  <figure style="text-align: center; flex: 1;">
-    <img src="video/Ant_dsum.gif" height="150px">
-    <figcaption style="font-size: 0.9em; color: gray; margin-top: 5px;">Ant dsum</figcaption>
-  </figure>
-  
-  <figure style="text-align: center; flex: 1;">
-    <img src="video/Ant_dmax.gif" height="150px">
-    <figcaption style="font-size: 0.9em; color: gray; margin-top: 5px;">Ant dmax</figcaption>
-  </figure>
-  
-  <figure style="text-align: center; flex: 1;">
-    <img src="video/Ant_min.gif" height="150px">
-    <figcaption style="font-size: 0.9em; color: gray; margin-top: 5px;">Ant min</figcaption>
-  </figure>
-  
-  <figure style="text-align: center; flex: 1;">
-    <img src="video/Ant_dsum_dmax.gif" height="150px">
-    <figcaption style="font-size: 0.9em; color: gray; margin-top: 5px;">Ant dsum + dmax</figcaption>
-  </figure>
-  
-  <figure style="text-align: center; flex: 1;">
-    <img src="video/Ant_dsum_var.gif" height="150px">
-    <figcaption style="font-size: 0.9em; color: gray; margin-top: 5px;">Ant dsum - var</figcaption>
-  </figure>
-</div>
+| dsum | dmax | min | dsum + dmax | dsum - var |
+|----------|----------|---------|-----------------|----------------|
+| <img src="video/Ant_dsum.gif" height="150"> | <img src="video/Ant_dmax.gif" height="150"> | <img src="video/Ant_min.gif" height="150"> | <img src="video/Ant_dsum_dmax.gif" height="150"> | <img src="video/Ant_dsum_var.gif" height="150"> |
