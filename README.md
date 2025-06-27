@@ -113,17 +113,17 @@ cd portfolio
 ### Lunar Lander Continuous
 
 | dsum | dmax | min | dsum + dmax | dsum - var |
-|------------|------------|-----------|-------------------|------------------|
+|------|------|-----|-------------|------------|
 | <img src="video/Lunar_dsum.gif" height="150"> | <img src="video/Lunar_dmax.gif" height="150"> | <img src="video/Lunar_min.gif" height="150"> | <img src="video/Lunar_dsum_dmax.gif" height="150"> | <img src="video/Lunar_dsum_var.gif" height="150"> |
 
 ### Hopper
 
 | dsum | dmax | min | dsum + dmax | dsum - var |
-|-------------|-------------|------------|-------------------|------------------|
+|------|------|-----|-------------|------------|
 | <img src="video/Hopper_dsum.gif" height="150"> | <img src="video/Hopper_dmax.gif" height="150"> | <img src="video/Hopper_min.gif" height="150"> | <img src="video/Hopper_dsum_dmax.gif" height="150"> | <img src="video/Hopper_dsum_var.gif" height="150"> |
 
 ### Ant
 
 | dsum | dmax | min | dsum + dmax | dsum - var |
-|----------|----------|---------|-----------------|----------------|
+|------|------|-----|-------------|------------|
 | <img src="video/Ant_dsum.gif" height="150"> | <img src="video/Ant_dmax.gif" height="150"> | <img src="video/Ant_min.gif" height="150"> | <img src="video/Ant_dsum_dmax.gif" height="150"> | <img src="video/Ant_dsum_var.gif" height="150"> |
