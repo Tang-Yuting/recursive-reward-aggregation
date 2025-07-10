@@ -1,0 +1,21 @@
+gymnax
+optax
+# dotmap
+tqdm
+numpy
+matplotlib
+pyyaml
+tensorflow-probability
+-f https://storage.googleapis.com/jax-releases/jax_cuda_releases.html
+jax[cuda12_pip]
+wandb
+pyrallis
+scikit-learn
+matplotlib
+# seaborn
+autopep8
+moviepy
+brax
+pytest-xdist
+jaxrenderer
+git+https://github.com/Farama-Foundation/d4rl@master#egg=d4rl
